@@ -1,0 +1,44 @@
+.text-table {
+	font-size: 25px;
+}
+
+.custom-table {
+	margin-top: 30px;
+}
+
+.texto-rojo {
+	color: #dc3545;
+}
+
+.navbar { 
+	background-color: #dc3545 !important;
+	color: #fff;
+}
+
+
+.navbar > a { 
+	color: #fff !important;
+}
+
+.nav-link { 
+	color: #fff !important;
+	font-size: 20px;
+}
+
+.nav-link:hover { 
+	background-color: #c8192a !important;
+}
+
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-text {
+	color: #fff !important;
+
+}
+
+body {
+	background-color: #fff !important;
+}
+
+
+.custom-image {
+	margin-top: 100px;
+}
